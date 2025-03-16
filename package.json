@@ -1,0 +1,10 @@
+{
+  "name": "elaboo",
+  "version": "1.0.0",
+  "description": "Mein Node.js-Projekt für DigitalOcean",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
