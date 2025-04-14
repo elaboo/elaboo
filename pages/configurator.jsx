@@ -1,0 +1,1 @@
+export default function Configurator() { return <h1>elaboo Konfigurator</h1>; }
